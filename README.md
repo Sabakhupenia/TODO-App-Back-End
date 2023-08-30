@@ -6,10 +6,9 @@ Welcome to the backend codebase of the Django ToDo App. This backend is built us
 
 1. Clone the repository: `git clone https://github.com/Sabakhupenia/TODO-App-Back-End`
 2. Install dependencies: `pip install -r requirements.txt`
-3. Configure the database settings in `DjangoToDo/settings.py`
-4. Make migrations: `python manage.py makemigrations`
-5. Run migrations: `python manage.py migrate`
-6. Start the development server: `python manage.py runserver`
+3. Make migrations: `python manage.py makemigrations`
+4. Run migrations: `python manage.py migrate`
+5. Start the development server: `python manage.py runserver`
 
 ## API Documentation
 
